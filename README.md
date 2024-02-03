@@ -1,1 +1,1 @@
-# [cgilab-tw](https://cgilab-tw.github.io/)
+# [cgi-lab](https://cgi-lab.github.io/)
